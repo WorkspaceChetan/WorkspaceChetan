@@ -1,7 +1,7 @@
-Hey, developing and designing with responsive and creative using high tech HTML5, CSS3, Responsive and Creative designing, REACT, Redux, saga, Component, React Bootstrap, React MatirialUI, Formik, Yup,.Net Core C# is my field of expertise.
+My name is Chetan Bardoliya. I’m a web designer and software developer for the last 6+ years with a solid enterprise background of experience.
+I have experience developing web enterprises and designing creative web interfaces.
 
-My name is Chetan and I’m a web designer and software developer from last 6+ years with a solid enterprise background of experience.
-I have experience developing web enterprise and designing creative web interfaces.
+Developing and designing with responsive and creative using high tech HTML5, CSS3, Responsive and Creative designing, REACT, Redux, saga, Component, React Bootstrap, React MatirialUI, Formik, Yup,.Net Core with C# is my field of expertise.
 
 **My skills include:**
 - Front-end: Responsive pixel perfact using HTML5, CSS3, JavaScript, React, Redux, Redux Saga, Styled component, JQuery, Bootstrap, Material UI
