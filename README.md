@@ -1,12 +1,12 @@
-My name is Chetan Bardoliya. I’m a web designer and software developer for the last 8+ years with a solid enterprise background of experience.
-I have experience developing web enterprises and designing creative web interfaces.
+My Self Chetan Bardoliya. I've spent the last 8+ years as a web designer and Web developer with a solid enterprise background. I have experience creating web businesses and designing innovative web interfaces.
 
-Developing and designing with responsive and creative using high tech HTML5, CSS3, Responsive and Creative designing, REACT, Redux, saga, NextJs, Node, Styled Component, React Bootstrap, React MatirialUI, Formik, Yup,.Net Core with C# is my field of expertise.
+Developing and designing with responsive and creative HTML5, CSS3, Responsive and Creative design, REACT, Redux, saga, NextJs, Node, Styled Component, React Bootstrap, React MatirialUI, Formik, Yup Net Core with C# is my field of expertise.
+
 
 **My skills include:**
-- Front-end: Responsive pixel perfact using HTML5, CSS3, JavaScript, React, Redux, Redux Saga, Styled component, JQuery, Bootstrap, Material UI
-- Database: MS SQL, MySQL, Mongo, SQLite (and SQL in general)
-- Back-end: NextJs, NodeJs, C#, Restful API, .Net MVC C#, .Net Core, MS Bot Framework, SignalR, Azure DevOps
+- Front-end: Responsive pixel perfact using HTML5, CSS3, JavaScript, React, Redux, Redux Saga, Styled component, JQuery, Bootstrap, and other technologies. Material UI 
+- databases include MongoDB, MS SQL, MySQL (and SQL in general)
+- Back-end technologies include NextJs, NodeJs, C#, Restful API,.Net MVC C#,.Net Core, MS Bot Framework, SignalR, and Azure DevOps.
 
 **GIT Expert**
 
