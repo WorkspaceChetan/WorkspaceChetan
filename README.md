@@ -1,3 +1,5 @@
+I am an enthusiastic coder driven by an unyielding passion for programming. With a strong dedication to mastering new technologies and solving complex problems.
+
 My Self Chetan Bardoliya. I've spent the last 8+ years as a web designer and Web developer with a solid enterprise background. I have experience creating web businesses and designing innovative web interfaces.
 
 Developing and designing with responsive and creative HTML5, CSS3, Responsive and Creative design, REACT, Redux, saga, NextJs, Node, Styled Component, React Bootstrap, React MatirialUI, Formik, Yup Net Core with C# is my field of expertise.
